@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction
 
-This project focuses on predicting heart disease based on attributes such as blood pressure, cholestoral levels, heart rate, and other characteristic attributes. Patients are classified as whether they have coronary artery disease or not. This project utilizes a dataset of 303 patients distributed by the UCI Machine Learning Repository.
+This project focuses on predicting heart disease based on attributes such as blood pressure, cholesterol levels, heart rate, and other characteristic attributes. Patients are classified as to whether they have coronary artery disease or not. This project utilizes a dataset of 303 patients distributed by the UCI Machine Learning Repository.
 
 The dataset is available through the University of California, Irvine Machine learning repository. Here is the URL:
 
